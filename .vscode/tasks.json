@@ -16,6 +16,7 @@
         "-lglew32",
         "-lgdi32",
         "-lopengl32",
+        "-lassimp",
         "-o",
         "${fileDirname}\\${fileBasenameNoExtension}.exe"
       ],
